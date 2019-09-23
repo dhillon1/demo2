@@ -16,10 +16,7 @@ class ViewController: UIViewController {
         newlocale(<#T##Int32#>, <#T##UnsafePointer<Int8>!#>, <#T##locale_t!#>)
         
         
-        
-        
-        
-        // 
+    
     }
 
 
